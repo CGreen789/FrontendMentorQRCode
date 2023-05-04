@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-(./QRComponentCGreen.png)
+![](./QRComponentCGreen.png)
 
 
 ### Links
@@ -50,7 +50,7 @@ This allowed me to make the body element the full desktop size and move the sect
 
 I used the design outlines to create CSS variables:
 
-```
+```css
 :root {
   --White: hsl(0, 0%, 100%);
   --Light-gray: hsl(212, 45%, 89%);
